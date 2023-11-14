@@ -23,17 +23,12 @@ Bing Maps APIs provide transit information for the following transit agencies in
 |:--------------------|--------------|
 |Regional|[אגד](https://www.egged.co.il) 
 |Regional|[אגד תעבורה](https://www.egged-taavura.co.il/) 
-
 |Regional|[אפיקים](https://www.electra-afikim.co.il) 
 |Regional|[גי.בי.טורס](https://www.gb-tours.com) 
 |Regional|[גלים](https://www.galeem.co.il/) 
-
 |Regional|[דן](https://www.dan.co.il/) 
-
 |Regional|[דן באר שבע](https://www.danbr7.co.il/) 
-
 |Regional|[דן בדרום](https://www.danbadarom.co.il/) 
-
 |Regional|דן צפו
 |Regional|[ירושלים - עיסאוויה מחנה שעפאט איחוד](https://bus.gov.il) 
 |Regional|[ירושלים-אבו-תור-ענאתא איחוד](https://bus.gov.il) 
@@ -46,13 +41,10 @@ Bing Maps APIs provide transit information for the following transit agencies in
 |Regional|[מועצה אזורית גולן](https://www.golan.org.il/) 
 |Regional|[מטרופולין](https://www.metropoline.com) 
 |Regional|[נסיעות ותיירות](https://www.ntt-buses.com/) 
-
 |Regional|[נתיב אקספרס](https://www.nateevexpress.com/) 
-
 |Regional|[סופרבוס](http://www.superbus.co.il/) 
 |Regional|סיטי פס 
 |Regional|[קווים](https://www.kavim-t.co.il/) 
-
 |Regional|[רכבת ישראל](https://www.rail.co.il) 
 |Regional|[ש.א.מ](https://www.nazareth-unbs.com/) 
 
